@@ -1,0 +1,9 @@
+fraud
+password
+bank
+crypto
+scam
+hacking
+transfer
+account
+login

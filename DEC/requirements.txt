@@ -1,0 +1,8 @@
+# GUI
+PyQt5>=5.15.0
+
+# Data handling
+pandas>=1.5.0
+
+# (Optional) If using numpy with pandas
+numpy>=1.23.0

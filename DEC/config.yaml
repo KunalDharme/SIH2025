@@ -1,0 +1,4 @@
+scoring:
+  low: 0       # 0 keywords = LOW risk
+  medium: 2    # 1-2 keywords = MEDIUM risk
+  high: 3      # 3+ keywords = HIGH risk
