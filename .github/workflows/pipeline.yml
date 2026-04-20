@@ -12,13 +12,5 @@ jobs:
       - name: Checkout_code
         uses: actions/checkout@v5
 
-      - name: Set_up_Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Run_tests
-        run: echo "Running tests..."
+      - name: Verify CI works
+        run: echo "CI is working 🎉"
